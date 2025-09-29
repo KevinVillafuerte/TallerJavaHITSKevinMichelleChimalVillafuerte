@@ -1,0 +1,3 @@
+Hola, este es un archivo de ejemplo.
+soy las siguiente linea.
+tercera linea de texto.

@@ -1,0 +1,7 @@
+Reporte de estudiantes
+==============================
+Total de estudiantes: 5
+Promedio edad: 20.40
+Promedio calificacion: 81.00
+Mejor estudiante: 95.0 (Renata)
+Peor estudiante: 65.0 (Delfino)
